@@ -16,4 +16,8 @@ Many Americans have become accustomed to President Trump’s lies. But as regula
 
 It is an web scrapping project which extract the President Trumps lie with the Explanation	
 
-It also include requests, beautifulsoup , Pandas , Matplotlib ... Libraries to extract the Data
+It also include requests, beautifulsoup , Pandas , Matplotlib , Seaborn... Libraries to extract the Data
+
+Webscrapping is possible with the help of "html-parse" , find() , find_all() , contents().. methods of BeautifulSoup Library
+
+Applying Tabular Data Structure with the help of Pandas and Plotting the graph with the help of Seaborn, Matplotlib
