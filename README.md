@@ -1,6 +1,6 @@
 # WEB-SCRAPPING-Trumps-Lie
 
-##About the Data
+# #About the Data
 
 The data is from : 'https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html'
 
@@ -12,7 +12,7 @@ This artical speaks about:
 Many Americans have become accustomed to President Trump’s lies. But as regular as they have become, the country should not allow itself to become numb to them. So we have catalogued nearly every outright lie he has told publicly since taking the oath of office.
 
 
-###About the project:
+# # #About the project:
 
 It is an web scrapping project which extract the President Trumps lie with the Explanation	
 
